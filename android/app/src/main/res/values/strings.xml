@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YUFixit Pro</string>
+       <!-- <string name="facebook_app_id">3207837382595417</string> -->
+    <string name="facebook_app_id">709798826292468</string>
+    <string name="fb_login_protocol_scheme">fb709798826292468</string>
+</resources>
